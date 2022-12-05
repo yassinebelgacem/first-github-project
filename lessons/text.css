@@ -1,0 +1,42 @@
+p{  
+  font-family:Roboto;
+}
+.video{
+font-weight: bold;
+font-size: 18px;
+width: 300px;
+line-height:24px;
+margin-bottom: 5px;
+}
+
+
+.yt{
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-top: 0px;
+  margin-bottom: 16px;
+}
+.tweet{
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+.text{
+  font-weight: 400px;
+  width: 284px;
+  line-height: 22px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.apple{
+margin-top: 100px;
+font-size: 14px;
+background-color: #e34140;
+color: white;
+text-align:center;
+padding-top: 16px;
+padding-bottom: 16px;
+}
+.kjb:hover{
+text-decoration: underline;
+cursor: pointer;
+}
